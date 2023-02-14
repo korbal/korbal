@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm on a journey to commit and contribute 365 days in a row in order to get better at coding and collaboration. Here is my streak:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=korbal&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+
 <!--
 **korbal/korbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
