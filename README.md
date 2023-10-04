@@ -4,6 +4,8 @@ I'm on a journey to commit and contribute 365 days in a row in order to get bett
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=korbal&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
+Update: well, I failed. But I got it over 200 days. It's still ok. 
+
 <!--
 **korbal/korbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
